@@ -1,1 +1,3 @@
-Line 1 - added by A.GolovachevaHello from Daria Vezhlivtseva
+Line 1 - added by A.Golovacheva
+Line 2 - Hello from Daria Vezhlivtseva
+Line 3 - Update from Anastasia
