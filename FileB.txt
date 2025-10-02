@@ -1,2 +1,6 @@
 Point 3 of the Task /DV
+<<<<<<< HEAD
 Update from AG
+=======
+Update from DV
+>>>>>>> b81ea0fcfc68f0d5239b17d47210a4c6bf0e554f
